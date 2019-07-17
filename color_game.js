@@ -35,7 +35,7 @@ for (let i = 0; i < square.length; i++) {
               }
           else {
           this.style.background = "#232323" ;
-          message.textContent = "Try again" ; 
+          message.textContent = "Nope" ; 
           }
       })
 }
